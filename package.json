@@ -1,5 +1,5 @@
 {
   "name": "@cloudy-db/bundle",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "bundle.js"
 }
